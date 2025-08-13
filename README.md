@@ -1,4 +1,4 @@
-### Obsidian – Config 
+# Obsidian – Config 
 
 ![badge-obsidian](https://img.shields.io/badge/Obsidian-Config-7c3aed?logo=obsidian&logoColor=white)
 ![badge-scope](https://img.shields.io/badge/Escopo-.obsidian%2F%20apenas-brightgreen)
