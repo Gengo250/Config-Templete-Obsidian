@@ -150,14 +150,6 @@ Sim, mas faça em **outro repositório** (ou ajuste o `.gitignore`). Cuidado com
 
 ---
 
-## 🧭 Roadmap curto
-- [ ] Adicionar capturas reais em `assets/screens/`
-- [ ] Publicar lista exata de plugins em uso
-- [ ] Exportar snippets CSS com comentários
-- [ ] Documentar hotkeys personalizadas
-
----
-
 ## 🤝 Créditos & Autoria
 
 - Setup e curadoria: **Miguel Gengo**  
