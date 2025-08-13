@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Vanilla AMOLED",
+  "accentColor": "",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "Notebook Backgrounds",
+    "Daily Note Themes",
+    "Minecraft",
+    "Japanese Font Support",
+    "CyanVoxel's General Tweaks"
+  ]
+}
