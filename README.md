@@ -150,10 +150,14 @@ Sim, mas faça em **outro repositório** (ou ajuste o `.gitignore`). Cuidado com
 
 ---
 
-## 🤝 Créditos & Autoria
+## 👤 Autor
 
-- Setup e curadoria: **Miguel Gengo**  
-- Ferramentas: Obsidian, Git/GitHub  
-- Licença: uso pessoal — ajuste conforme sua necessidade.
+**Miguel de Castilho Gengo**  
+Estudante de Engenharia de Computação (PUC-Campinas) • Dev C/Java/Python • Robótica & Cibersegurança
 
-> Dúvidas ou sugestões? Abra uma _issue_ no repositório.
+**Links**
+- GitHub: [@Gengo250](https://github.com/Gengo250)
+- LinkedIn: [miguel-gengo-8157b72a1](https://www.linkedin.com/in/miguel-gengo-8157b72a1)
+- E-mail: [miguelgengo28@gmail.com](mailto:miguelgengo28@gmail.com)
+
+Se este setup te ajudou, deixa uma ⭐ no repositório e sinta-se à vontade para abrir uma *Issue* com sugestões.
