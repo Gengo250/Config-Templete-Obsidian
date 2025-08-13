@@ -8,8 +8,6 @@
 Repositório **profissional** para versionar e replicar o **setup do Obsidian** do cofre _Organização_.  
 Aqui você encontrará **temas, plugins, snippets, hotkeys e preferências** — **sem** notas pessoais. Ideal para manter a mesma experiência em várias máquinas ou compartilhar um template limpo.
 
-> **Escopo**: este repo contém **apenas** a pasta `.obsidian/`. Seus arquivos/notes ficam fora daqui e **não** são publicados.
-
 ---
 
 ## 🔧 Downloads necessários
@@ -43,8 +41,6 @@ Aqui você encontrará **temas, plugins, snippets, hotkeys e preferências** —
      - **Obsidian Git** – commits/pulls/push automáticos
      - **Iconize ou Supercharged Links** (opcional para ícones)
    - As **preferências** (atalhos, tema e layout) já vêm neste repo via `.obsidian/`.
-
-> ⚠️ Dica: alguns plugins guardam **tokens/segredos** em `data.json`. Se você sincronizar _plugins específicos_ com repositórios públicos, revise os arquivos antes de publicar.
 
 ---
 
