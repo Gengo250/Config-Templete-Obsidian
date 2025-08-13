@@ -61,9 +61,6 @@ Organização/
 └─ 99 - Templates/
 ```
 
-### 📸 Campos para **prints de tela** (adicione suas imagens em `assets/screens/`)
-> Substitua os caminhos abaixo pelas suas capturas reais.
-
 - **Estrutura de pastas**  
   `assets/screens/estrutura-pastas.png`  
   ![Estrutura de pastas](assets/screens/estrutura-pastas.png)
