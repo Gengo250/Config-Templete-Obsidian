@@ -1,12 +1,15 @@
-﻿# Ignora tudo por padrão
-*
-
-# Permite versionar a pasta de config do Obsidian
+﻿*
 !.gitignore
+!/README.md
+
+# permitir pasta de imagens do README
+!assets/
+!assets/**
+
+# permitir config do Obsidian
 !.obsidian/
 !.obsidian/**
 
-# Itens voláteis (não versionar)
+# itens voláteis que NÃO vamos versionar
 .obsidian/cache/
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+.obsidian/workspace*.json
